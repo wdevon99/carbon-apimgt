@@ -19,7 +19,7 @@ If you want to build carbon-apimgt from the source code:
 ## Running Integration tests in docker containers(Optional)
 
 
-1. Install docker
+1. Install docker (https://docs.docker.com/install/)
 1. Go inside to the carbon-apimgt directory
 1. Run integration test by giving following commands
 
